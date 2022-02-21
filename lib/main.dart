@@ -2,7 +2,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:todolist/auth/authscreen.dart';
+import 'package:todolist/screens/authscreen.dart';
 import 'package:todolist/screens/homepage.dart';
 
 void main() => runApp(MyApp());

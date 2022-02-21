@@ -6,7 +6,7 @@
 //otherwise he is redirected to the home page
 
 import 'package:flutter/material.dart';
-import 'package:todolist/auth/authform.dart';
+import 'package:todolist/screens/authform.dart';
 class AuthScreen extends StatefulWidget {
   const AuthScreen({ Key? key }) : super(key: key);
 
